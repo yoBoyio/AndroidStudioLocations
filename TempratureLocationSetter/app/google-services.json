@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110963575091",
+    "firebase_url": "https://locationdata-84469.firebaseio.com",
+    "project_id": "locationdata-84469",
+    "storage_bucket": "locationdata-84469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110963575091:android:8778bc62baf963ab37d646",
+        "android_client_info": {
+          "package_name": "com.example.tempraturelocationsetter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110963575091-ns8hsqba4knqiob4f5746mpkfauvubla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tempraturelocationsetter",
+            "certificate_hash": "b419accf6d031d7087339f0f2d239fca684f890d"
+          }
+        },
+        {
+          "client_id": "110963575091-p1q8vj11a5jpmbrfjtnins1r13flbkdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGlJzdQ51_MMqQD_k43zw_YfWX0Y1vn70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110963575091-p1q8vj11a5jpmbrfjtnins1r13flbkdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
