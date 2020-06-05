@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B4:19:AC:CF:6D:03:1D:70:87:33:9F:0F:2D:23:9F:CA:68:4F:89:0D%3Bcom.example.firebaselocationgetter
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.firebaselocationgetter
+
+    SHA-1 certificate fingerprint:
+    B4:19:AC:CF:6D:03:1D:70:87:33:9F:0F:2D:23:9F:CA:68:4F:89:0D
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCYdoeYD5SZyrNOj2ZMiS60AJnh0Ot9Vz4</string>
+</resources>

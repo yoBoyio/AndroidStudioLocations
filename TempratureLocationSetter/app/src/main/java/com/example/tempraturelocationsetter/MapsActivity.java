@@ -111,7 +111,7 @@ public class MapsActivity extends FragmentActivity implements SensorEventListene
                     location.put("Color", color_value);
                     location.put("Description", desc_value);
                     location.put("Sensor", sensor_value);
-                    counter++;
+                   
                     //clean text box
                     input.setText("");
                     //sent option to database
@@ -120,7 +120,7 @@ public class MapsActivity extends FragmentActivity implements SensorEventListene
                             //if it succeeds
                             public void onSuccess(Void aVoid) {
                                 Toast.makeText(MapsActivity.this, "Successfully added", Toast.LENGTH_SHORT).show();
-
+                                counter++;
                             }
                         }).addOnFailureListener(new OnFailureListener() {
                             @Override
